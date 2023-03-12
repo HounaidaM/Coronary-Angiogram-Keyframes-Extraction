@@ -33,4 +33,4 @@ All zipped dataset is put in the "all_dataSet_deep" section above.
 The used model is U-net from @https://arxiv.org/abs/1505.04597 
 
 # Trained models
-Section Trained Models contains models traindes with 150, 200 and 300 epochs. 
+Section Models contains models traindes with 150, 200 and 300 epochs. 
