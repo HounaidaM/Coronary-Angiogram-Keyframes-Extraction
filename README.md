@@ -1,6 +1,6 @@
 # Coronary-Angiogram-Keyframes-extraction
 
-This is the official repository for the paper "Coronary angiogram keyframe detection using a deep learning method" submited in Computer Methods and Programs in Biomedicine.
+This is the official repository for the paper "Angiokey: A Deep Learning Method for Extracting Keyframes from Coronary Angiograms" submited in Computer Methods and Programs in Biomedicine.
 
 # Authors: 
 Hounaida Moalla, Aiman Ghrab, Bassem Ben Hamed, Amin Bahloul, Rania Hammami and Leila Abid
@@ -14,10 +14,15 @@ In this work, we have applied the method of filters on the frames for extraction
 
 # Citation
 
-ffdffds
-xcwxcwcw
-dxfgfghg
-cvxcvbv
+@software{Hounaida_and_all_2023,
+  authors = {Hounaida Moalla and Aiman Ghrab},
+  doi = {10.5281/zenodo.1234},
+  month = {04},
+  title = {{Coronary-Angiogram-Keyframes-extraction}},
+  url = {https://github.com/HounaidaM/Coronary-Angiogram-Keyframes-extraction},
+  version = {1.4.23},
+  year = {2023}
+}
 
 # Environment
 Python, Keras, Kaggle cloud
