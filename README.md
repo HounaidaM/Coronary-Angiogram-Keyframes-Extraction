@@ -20,7 +20,7 @@ In this work, we have applied the method of filters on the frames for extraction
   month = {04},
   title = {{Coronary-Angiogram-Keyframes-extraction}},
   url = {https://github.com/HounaidaM/Coronary-Angiogram-Keyframes-extraction},
-  version = {1.4.23},
+  version = {v1.4.23},
   year = {2023}
 }
 
