@@ -10,6 +10,12 @@ I made some of the following changes:
 - We didn't train the U-net, we loaded a pretrained model;
 - The test is done on our personal dataset to produce the frame masks (Ground Truth).
 
+# usefulness :
+
+This project can be used to automatically generate groundtruths of medical images. It was tested on a sample of coronary frames extracted from angiographic videos. Then it offers keyframes extraction from each video.
+
+The project will be useful to automatically manage a large dataset ensuring better performance.
+
 # Authors: 
 Hounaida Moalla & Aiman Ghrab
 
