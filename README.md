@@ -2,6 +2,14 @@
 
 This is the official repository for the paper "Angiokey: A Deep Learning Method for Extracting Keyframes from Coronary Angiograms" submited in Computer Methods and Programs in Biomedicine.
 
+I have to say that this code was inspired from https://github.com/RGivisiez/Blood-Vessel-Segmentation.
+
+I made some of the following changes:
+
+- Load images has been adapted to the structure of our dataset;
+- We didn't train the U-net, we loaded a pretrained model;
+- The test is done on our personal dataset to produce the frame masks (Ground Truth).
+
 # Authors: 
 Hounaida Moalla, Aiman Ghrab, Bassem Ben Hamed, Amin Bahloul, Rania Hammami and Leila Abid
 
