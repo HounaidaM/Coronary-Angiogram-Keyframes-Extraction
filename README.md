@@ -1,4 +1,4 @@
-# AngioKey : Coronary-Angiogram-Keyframes-extraction
+# AngioKey : Coronary-Angiogram-Keyframes-Extraction
 
 This is the official repository for the paper "Angiokey: A Deep Learning Method for Extracting Keyframes from Coronary Angiograms" submited in Computer Methods and Programs in Biomedicine.
 
