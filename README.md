@@ -11,7 +11,7 @@ I made some of the following changes:
 - The test is done on our personal dataset to produce the frame masks (Ground Truth).
 
 # Authors: 
-Hounaida Moalla, Aiman Ghrab, Bassem Ben Hamed, Amin Bahloul, Rania Hammami and Leila Abid
+Hounaida Moalla & Aiman Ghrab
 
 # Previous works
 Previous work has been presented in 
