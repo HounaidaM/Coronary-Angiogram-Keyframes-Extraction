@@ -1,0 +1,7 @@
+@misc{gitCAKE,
+	author       = {Moalla, Hounaida and Ghrab, Aiman},
+	title        = {"Coronary-Angiogram-Keyframes-extraction"},
+	howpublished = "\url{https://github.com/HounaidaM/Coronary-Angiogram-Keyframes-extraction}",
+	month        = "04",
+	year         = "2023"
+}
