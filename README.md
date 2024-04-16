@@ -1,13 +1,14 @@
-# AngioKey : Coronary-Angiogram-Keyframes-Extraction
+# AngioData : A Novel Open Dataset of Coronary Artery Keyframes Extracted via Deep Learning
 
-This is the official repository for the paper "Angiokey: A Deep Learning Method for Extracting Keyframes from Coronary Angiograms" submited in Computer Methods and Programs in Biomedicine.
+This is the official repository for the paper "AngioData : A Novel Open Dataset of Coronary Artery Keyframes Extracted via Deep Learning" submited in Journal of Cardiovascular Translational Research.
+.
 
-I have to say that this code was inspired from https://github.com/RGivisiez/Blood-Vessel-Segmentation.
+I have to say that this code was inspired from <a href="URL_du_lien">https://github.com/RGivisiez/Blood-Vessel-Segmentation</a>
 
 I made some of the following changes:
 
 - Load images has been adapted to the structure of our dataset;
-- We didn't train the U-net, we loaded a pretrained model;
+- We trained the U-net model on a dataset given from ;
 - The test is done on our personal dataset to produce the frame masks (Ground Truth).
 
 # usefulness :
