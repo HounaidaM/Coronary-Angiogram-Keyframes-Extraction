@@ -55,7 +55,7 @@ H. Moalla, A. Ghrab, B. B. Hamed, A. Bahloul and L. Abid, "Exploiting Pre-traine
 # Environment
 Python, Keras, Kaggle cloud
 
-# Dataset
+# AngioData Dataset
 The full dataset was collected from exams performed by a single catheterization laboratory during the period between January 2018 and December 2021.
 Dataset consisted of 3159 angiographic study: a total of 37209 coronary angiograms was extracted. We used a sample of 45 angiograms to extract a total of
 1434 frames of size 512 x 512 pixels.
