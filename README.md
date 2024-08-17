@@ -4,7 +4,7 @@ This is the official repository for the paper "AngioData : A Novel Open Dataset 
 
 We're applying **AngioKey** for image segmentation, followed by extracting keyframes from the segmented images.
 
-## AngiKey
+## AngiKey Framework
 I have to say that this code was inspired from <a href="URL_du_lien">https://github.com/RGivisiez/Blood-Vessel-Segmentation</a>.
 
 I made some of the following changes:
